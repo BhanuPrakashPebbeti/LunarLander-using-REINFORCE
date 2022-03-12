@@ -1,4 +1,4 @@
-# LunarLander-using-REINFORCE
+# Reinforce Algorithm
 - REINFORCE belongs to a special class of Reinforcement Learning algorithms called Policy Gradient algorithms. A simple implementation of this algorithm would involve creating a Policy: a model that takes a state as input and generates the probability of taking an action as output. A policy is essentially a guide or cheat-sheet for the agent telling it what action to take at each state. The policy is then iterated on and tweaked slightly at each step until we get a policy that solves the environment.
 -  The policy is usually a Neural Network that takes the state as input and generates a probability distribution across action space as output.
 
